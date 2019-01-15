@@ -1,0 +1,4 @@
+{
+    "blockchainURL":"http://localhost:8000",
+    "blockchainURLheroku":"https://tsu-heroku-api.herokuapp.com"    
+}

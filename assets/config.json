@@ -1,0 +1,4 @@
+{
+    "blockchainURL":"http://40.68.171.246:8000",
+    "blockchainURLheroku":"https://tsu-heroku-api.herokuapp.com"    
+}
